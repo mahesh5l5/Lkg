@@ -1,0 +1,101 @@
+<html>
+<head>
+	<title>cv letter</title>
+   <style>
+      	.info,h1{ display:flex; justify-content: center;}
+.body{ text-align:left;}
+table{ border: 1px;  border-collapse: collapse; }
+.line{ border-bottom-color:black; }
+th{ text-align: left;}
+body{ background-color: rgb(237, 236, 235); }
+  </style>
+</head>
+<body>
+<table class="body" cellpadding="3px">
+<tr class="line">
+<td colspan="3"><b>PERSONAL INFORMATION</b><hr size="2px" color="black"></td>
+   </tr>
+    <tr>
+        <td>Name:</td>
+        <td>DHARMA TEJA</td>
+        <td rowspan="7"></td>
+     </tr>
+
+     <tr>
+        <td>Date of Birth:</td>
+        <td>15-06-2002</td>
+     </tr>
+     <tr>
+        <td>Address: </td>
+        <td>82-18-1, shareen nagar, kurnool</td>
+     </tr>
+     <tr>
+        <td>Mobile:</td>
+        <td>+919133225502</td>
+     </tr>
+     <tr>
+        <td>Email:</td>
+        <td><u>dharmateja238@gmail.com</u></td>
+     </tr>
+     <tr>
+        <td> Linkedin profile:</td>
+        <td><u>www.linkedin.com/profile/@dharmateja238</u></td>
+     </tr>
+     <tr class="line">
+        <td colspan="3"><b><br>PROFILE</b><hr size="2px" color="black"></td>
+     </tr>
+
+
+     <tr>
+        <td colspan="3">I am an enterprising young professional in trending to continue my development as a consultant. I think in terms of results and objectives, I am enthusiastic, and I work with decisiveness and conviction, I have a proactive attitude and find positive ways to stimulate and engage with people.
+        </td>
+    </tr><br>
+    <tr class="line">
+        <td colspan="3"><br><b>EDUCATION</b><hr size="2px" color="black"></td>
+     </tr>
+     <tr>
+        <td> 2022-present</td>
+        <td colspan="2"><font size="04px" color="blue">Computer Science and Engineering</font><br>
+            <i>G.Pulla Reddy Engineering Collage, kurnool</i><br>
+        </td>
+     </tr>
+     <tr>
+        <td>2018-2021</td>
+        <td colspan="2"><font size="04px" color="blue">Computer Science and Engineering</font><br>
+            <i>Government Polytechnic for Minorities Collage, kurnool</i><br>
+        </td>
+     </tr>
+
+
+
+     <tr>
+        <td> 2012-2018</td>
+        <td colspan="2">6th to 10th class<br>
+            <i>Zilla Parishad High School,Shareen Nagar, kurnool</i><br>
+        </td>
+     </tr><br>
+     <tr class="line">
+        <td colspan="3"><br><b>EXTRACURRICULAR ACTIVITIES </b><hr size="2px" color="black"></td>
+     </tr>
+     <tr>
+        <td> 08/2016</td>
+        <td colspan="2">select as state player in volley ball<br>
+        </td>
+     </tr>
+     <tr>
+        <td>03/2018</td>
+        <td colspan="2">1st prize in drawing compitions<br>
+        </td>
+     </tr><br>
+     <tr class="line">
+        <td colspan="3"><br><b>SKILLS</b> <hr size="2px" color="black"></td>
+     </tr>
+
+
+     <tr>
+        <td colspan="3">. web development internship training is completed in bolt iot online platform<br> . Languages: Telugu(Mother tongue), English,Hindi<br>
+        </td>
+    </tr><br>
+    </table>
+</body>
+</html>
