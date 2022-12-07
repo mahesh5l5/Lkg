@@ -1,0 +1,108 @@
+Registration form.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title> Student Club registration</title>
+<style>
+.container { padding: 10px;}
+form { border: 2px solid blanchedalmond; text-align: center; width: 100%; }
+</style>
+</head>
+<body style="text-align: center; background-color: lightsteelblue;">
+<div class="container">
+<fieldset>
+<h1>Student Club Registration Form</h1><br><br>
+<button><a href="signupform.html" target="_blank"> signup </a></button>
+<button><a href="loginform.html" target="_blank"> login</a></button>
+</fieldset>
+</div>
+</body>
+</html>
+
+
+Login_form.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Student Club Regitration form</title>
+<style>
+.container { padding: 10px;}
+form { border: 2px solid blanchedalmond; text-align: center; width: 100%; }
+</style>
+</head>
+<body style="text-align: center; background-color: lightsteelblue;">
+<form action="acv/html">
+<div class="container">
+<fieldset>
+<legend><h1>Student Club Login Form</h1></legend>
+<label for="email"><b>Email:</b></label>
+<input type="text" id="email" placeholder="Email-Id"><br><br>
+<label for="pass"><b>Password:</b></label>
+<input type="password" id="pass" placeholder="password"><br><br>
+<p>By creating an account you are accepting the <a href="#">Terms and conditions</a> of our firm</p>
+<button type="submit"><a href="student_form.html" target="_blank">login</a></button>
+<div>
+<p>Create a new Account <a href="signupform.html" target="_blank">sign up</a></p>
+</div>
+</fieldset>
+</div>
+</form>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Signup_form.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>
+signup form
+</title>
+<style>
+.container { padding: 10px;}
+form { border: 2px solid blanchedalmond; text-align: center; width: 100%; }
+</style>
+</head>
+<body style="text-align: center; background-color: lightsteelblue;">
+<form action="acv/html">
+<div class="container">
+<fieldset><legend>Student Club Sign up Form</legend>
+First Name:<input type="text" maxlength="20"><br><br>
+Last  Name:<input type="text" maxlength="20"><br><br>
+Surname:<input type="text" maxlength="20"><br><br>
+Gender: Male<input type="radio" name="male">
+FeMale<input type="radio" name="male"><br><br>
+date of birth: <input type="date"><br><br>
+Age:<input type="text"><br><br>
+Btech : CGPA:<input type="text"><br><br>
+comment: <textarea name="message" rows="5" cols="30">
+</textarea><br><br>
+<button type="submit"><a href="student_form.html" target="_blank">submit</a></button>
+<button type="reset"> reset</button>
+</fieldset>
+</div>
+</form>
+</body>
+</html>
