@@ -1,0 +1,60 @@
+<!DOCTYPE html> 
+<head> 
+  <title>student educational details</title>
+  <style> th, tr, td{background-color: {#f2f3f3;} </style>
+</head>
+<body bgcolor="#b3ffff">
+<table border="1" align="center" cellspacing="3" cellpadding="5" style="border-collapse: collapse; width: 876px;" >
+<marquee scrolldelay="100" direction="right">students education detailes</marquee>
+    <thead>
+     <th rowspan="2">S.NO</th>
+      <th colspan="4">student detailes</th>
+      <tr>
+        <th> PIN </th>
+        <th> NAME </th>
+        <th> BRANCH </th>
+        <th> CGPA </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th> 1 </th>
+        <td> 5K6 </td>
+        <td> K.Dharmateja </td>
+        <td> CSE </td>
+        <td> 7.33 </td>
+      </tr>
+      <tr>
+        <th> 2 </th>
+        <td> 5M1 </td>
+        <td> N.Vardhan </td>
+        <td> CSE </td>
+        <td> 8.05 </td>
+      </tr>
+      <tr>
+        <th> 3 </th>
+        <td> 5L5 </td>
+        <td> M.Mahesh </td>
+        <td> CSE </td>
+        <td> 6.8 </td>
+      </tr>
+
+
+      <tr>
+        <th> 4 </th>
+        <td> 535  </td>
+        <td> V.Dhanush </td>
+        <td> CSE </td>
+        <td> 9.1 </td>
+      </tr>
+      <tr>
+        <th> 5 </th>
+        <td> 529 </td>
+        <td> A.Gangadhar </td>
+        <td> CSE </td>
+        <td> 9.2 </td>
+      </tr>
+    </tbody>
+  </table>
+</body>
+</html>
