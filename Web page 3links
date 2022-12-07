@@ -1,0 +1,147 @@
+Main_page.html
+<html>
+	<head>
+		<title>main page</title>
+		<style>
+			h1{background-color: rgb(227, 227, 44);}
+			body{background-color: aliceblue;}
+		</style>
+	</head>
+<body>
+<ul>
+<li><a href="aboutus.html" target="_blank">About Us</a><br>
+<li><a href="ourservices.html" target="_blank">Our Services</a><br>
+<li><a href="contactus.html" target="_blank">Contact Us</a><br>
+<ul>
+</body>
+</html>
+
+
+
+
+
+
+Aboutus.html
+<html>
+	<head>
+		<title>about us</title>
+		<style>
+			h1{background-color: rgb(227, 227, 44);}
+			body{background-color: aliceblue;}
+		</style>
+	</head>
+<body>
+<div align="center">
+<h1> <i><u>About Us</u></i> </h1>
+</div>
+<div align="center">
+<img src="assets/images/flipkartstory.png" alt="about us" width=500px height="50">
+</div>
+<div align="center">
+<img src="assets/images/launching flipkart.png" alt="about us" width=500px height="120">
+<div align="center">
+<img src="assets/images/flipkartshop.png" alt="about us" width=400px height="200">
+</div>
+<div align="center">
+</div>
+<div align="center">
+<img src="assets/images/flipkart grow.png" alt="about us" width=400px height="200">
+</div>
+<div align="center">
+<img src="assets/images/flipkart form.png" alt="about us" width=250px height="200">
+</div>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ourservices.html
+<html>
+	<head>
+		<title>our services</title>
+		<style>
+			h1{background-color: rgb(227, 227, 44);}
+			body{background-color: aliceblue;}
+		</style>
+	</head>
+<body>
+<div align="center">
+<h1><i><u>Our Services</u></i></h1>
+</div>
+<div align="center">
+<h3>E-commerce</h3>
+<p><br>
+<b>Online goods and services</b><br><br>
+Digital distribution . Ebooks . Software . Streaming media<br><br>
+<b>Retail services</b><br>
+Banking . DVD-by-mail . Delivery (commerce) . Flower delivery . Food delivery . Online food ordering . Grocery . Pharmacy . Prostitution . Ride-hailing . Travel<br><br>
+<b>Marketplace services</b><br><br>
+Advertising . Auctions . Comparison shopping . Auction software . Social commerce . Trading communities . Wallet<br><br>
+<b>Mobile commerce</b><br><br>
+Payment . Ticketing<br><br>
+<b>Customer service</b><br><br>
+Call centre . Help desk . Live support software<br><br>
+<b>E-procurement</b><br>
+<b>Purchase-to-pay</b><br>
+<b>Super-apps</b></p><br>
+</div>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contactus.html
+<html>
+	<head>
+		<title>contact us</title>
+		<style>
+			h1{background-color: rgb(227, 227, 44);}
+			body{background-color: aliceblue;}
+		</style>
+	</head>
+<body>
+<div align="center">
+<h1><i><u>Contact us</u></i></h1>
+</div>
+<div align="center">
+<img src="assets/images/contactus.jpg" alt="contact us" width="600px" height="200px">
+</div>
+<div align="center">
+<p> The Flipkart Help Centre page lists out various types of issues that you may have encountered so that there can be quick resolution and you can go back to shopping online. For example, you can get more information regarding order tracking, delivery date changes, help with returns (and refunds), and much more. The Flipkart Help Centre also lists out more information that you may need regarding Flipkart Plus, payment, shopping, and more. The page has various filters listed out on the left-hand side so that you can get your queries solved quickly, efficiently, and without a hassle.  You can even inform your loved ones of the support page so that they can properly get their grievances addressed as well. Once you have all your queries addressed, you can pull out your shopping list and shop for all your essentials in one place. You can shop during festive sales to get your hands on some unbelievable deals online. This information is updated on 30-Aug-22
+</p>
+</div>
+<div>
+<p><u>Mail Us:</u><br><br>
+Flipkart Internet Private Limited,<br>
+Buildings Alyssa, Begonia &<br>
+Clove Embassy Tech Village,<br>
+Outer Ring Road, Devarabeesanahalli Village,<br>
+Bengaluru, 560103,<br>
+Karnataka, India<br></p>
+</div>
+</body>
+</html>
